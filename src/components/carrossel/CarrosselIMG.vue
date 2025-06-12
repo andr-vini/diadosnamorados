@@ -1,5 +1,5 @@
 <script setup>
-import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel';
+import { Carousel, Slide } from 'vue3-carousel';
 import { ref } from 'vue';
 import img1 from '@assets/img/img1.jpeg';
 import img2 from '@assets/img/img2.jpeg';

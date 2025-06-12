@@ -6,8 +6,11 @@ import { CarrosselIMG } from '@components/carrossel'
   <main class="h-screen flex flex-col justify-center items-center bg-[#C8D9E6]">
     <div class="px-10 text-[#B7DOE1] ">
       <p class="text-center text-sm mb-3">Posso até não ser o cara que vai te escrever um poema, ou o que
-        vai te escrever uma música. Mas eu tenho certeza que eu vou ser o que vai te escrever o melhor código</p>
-      <h1 class="text-center text-2xl font-bold">Te amo infinitamente!! ❤️</h1>
+        vai te escrever uma música. Mas eu sei que tenho o código certo pra te fazer feliz</p>
+      <h1 class="text-center text-2xl font-bold">❤️ Te amo infinitamente ❤️</h1>
+      <h1 class="text-center text-xl font-bold">❤️ Feliz dia dos namorados ❤️</h1>
+      <h1 class="text-center text-lg font-bold"><span class="mr-4">❤️</span> Amor da minha vida <span
+          class="ml-4">❤️</span></h1>
     </div>
     <CarrosselIMG />
     <div class="max-w-[300px] space-y-4 mt-4">
